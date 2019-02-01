@@ -176,6 +176,7 @@ which they can do that is in a big part thanks to Druid!
 ## MakeMyTrip
 
 * [Data Insights Engine @ MakeMyTrip](https://medium.com/makemytrip-engineering/data-insights-engine-makemytrip-900bd353d99c)
+* MakeMyTrip uses DRUID for various usecases like Customer Segmentation & Intelligence, Data Insights Engine and Campaign Management [ Backbone of data products @ MakeMyTrip](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 
 ## Marchex
 
